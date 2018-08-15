@@ -2,12 +2,12 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
-    id          = "Fahadin.calculator.com"
+    id          = "Fahadin.camera.com"
     versionCode = "1" 
     version     = "1.0.0" >
-   <name>Fahadin Calculator</name>
+   <name>Fahadin Camera</name>
     <description>
-            A mobile calculator application. 
+            A mobile camera apk. 
     </description>
     <author href="https://www.facebook.com/fahadkamal05/" email="kawsarkamal71@gmail.com">
             Fahad Kamal
